@@ -17,7 +17,7 @@ public class ImageTest {
 	private static final int IMG_WIDTH = 600;
 	private static final int IMG_HEIGHT = 600;
         private static final String filePath = "./image/";
-        private static final String fileName = "1";
+        private static final String fileName = "4";
         private static final String ext = ".jpg";
 	
 	public static void main(String [] args){

@@ -71,7 +71,7 @@ public class ImageResizer {
     public static void main(String[] args) {
         
         String filePath = "./image/";
-        String fileName = "2";
+        String fileName = "1";
         String ext = ".jpg";
         String inputImagePath = filePath + fileName + ext;
         String outputImagePath1 = filePath + fileName + "_Fixed" + ext;
